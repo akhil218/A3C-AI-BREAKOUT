@@ -9,7 +9,7 @@ The results will be saved in a different folder, in this case they are saved in 
 # Please make sure to install all the packages required for implementation. Below are the Installation Instructions:
 
 
-1) Linux and Max users, please open your terminal.
+* Linux and Max users, please open your terminal.
 
 
    On Mac, the easiest way to open it is to press anywhere 
@@ -22,31 +22,31 @@ The results will be saved in a different folder, in this case they are saved in 
 
    Then inside the terminal, copy paste and enter each of the following line commands separately:
 
--> conda install -c pytorch pytorch
+      1. conda install -c pytorch pytorch
 
 
--> conda install -c akode gym
+      2. conda install -c akode gym
 
 
--> conda install -c menpo ffmpeg
+      3. conda install -c menpo ffmpeg
 
 
--> conda install -c conda-forge opencv
+      4. conda install -c conda-forge opencv
 
 
-2) And Windows users, please open the anaconda prompt, which you can find this way:
+* And Windows users, please open the anaconda prompt, which you can find this way:
 
 
    Windows Button in the lower left corner -> List of programs -> anaconda -> anaconda prompt
    Then inside the anaconda prompt, copy paste and enter each of the following line commands separately:
 
--> conda install -c pytorch pytorch
+      1. conda install -c pytorch pytorch
 
 
--> conda install -c akode gym
+      2. conda install -c akode gym
 
 
--> conda install -c menpo ffmpeg
+      3. conda install -c menpo ffmpeg
 
 
--> conda install -c conda-forge opencv
+      4. conda install -c conda-forge opencv
